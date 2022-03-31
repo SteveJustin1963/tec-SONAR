@@ -1,2 +1,2 @@
 # tec-SONAR
-TEC-1 Sonar system
+TEC-1 Sonar experiments
