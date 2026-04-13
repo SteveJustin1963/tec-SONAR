@@ -13,9 +13,9 @@ int main()
     printf("Enter the distance (in m) of the object: ");
     scanf("%d", &d);
     
-    t = (2 * d) / v;
-    
-    printf("The object is %.2f m away.\n", d);
+    t = (2.0f * d) / v;
+
+    printf("The object is %d m away.\n", d);
     printf("It will take %.2f seconds for the object to reach the observer.\n", t);
     
     return 0;
